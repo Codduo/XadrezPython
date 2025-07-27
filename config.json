@@ -1,0 +1,48 @@
+{
+    "app_info": {
+        "name": "XadrezPython",
+        "version": "2.0",
+        "title": "CODDUO - Xadrez",
+        "developer": "CODDUO Team",
+        "category": "games"
+    },
+    "display": {
+        "board_size": 640,
+        "max_fps": 60,
+        "resolution_preset": "1280x720",
+        "window_width": 1280,
+        "window_height": 720,
+        "fullscreen": false,
+        "vsync": true
+    },
+    "gameplay": {
+        "auto_rotate": true,
+        "timer_minutes": 15,
+        "show_timer": true,
+        "timer_mode": "stopwatch",
+        "rotation_animation": true,
+        "rotation_speed": 2.5,
+        "sound_enabled": true,
+        "show_captured_pieces": true,
+        "show_move_hints": true
+    },
+    "codduo_integration": {
+        "auto_save_config": true,
+        "integrate_with_system": true,
+        "use_system_theme": false,
+        "log_games": true,
+        "backup_saves": true
+    },
+    "paths": {
+        "images": "images1",
+        "sounds": "sounds",
+        "saves": "saves",
+        "logs": "logs"
+    },
+    "advanced": {
+        "debug_mode": false,
+        "performance_mode": false,
+        "animation_quality": "high",
+        "texture_filtering": true
+    }
+}
