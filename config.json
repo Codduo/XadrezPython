@@ -1,4 +1,15 @@
 {
+    "board_size": 640,
+    "max_fps": 60,
+    "auto_rotate": false,
+    "timer_minutes": 10,
+    "show_timer": true,
+    "timer_mode": "countdown",
+    "rotation_animation": true,
+    "rotation_speed": 2.0,
+    "resolution_preset": "1024x768",
+    "window_width": 1024,
+    "window_height": 768,
     "app_info": {
         "name": "XadrezPython",
         "version": "2.0",
